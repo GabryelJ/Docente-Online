@@ -4,6 +4,10 @@ Projeto FINAL da disciplina **Desenvolvimento de Sistemas Web - 2025.1**
 Hospedado em: [https://andluis35.github.io/Docente-Online/](https://andluis35.github.io/Docente-Online/)
 
 ---
+Usuário de teste:
+Login: Fabio da Silva
+Senha: Senha@123
+---
 
 ## TODOs do Projeto
 

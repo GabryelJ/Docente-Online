@@ -7,7 +7,7 @@ Hospedado em: [https://andluis35.github.io/Docente-Online/](https://andluis35.gi
 
 # Usuário de teste:
 
-  Login: 'Fabio da Silva' ou '91011-1'
+  Login: '123.456.789-01' ou '91011-1'
 
   Senha: Senha@123
   

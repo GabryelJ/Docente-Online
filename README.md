@@ -9,7 +9,7 @@ Hospedado em: [https://andluis35.github.io/Docente-Online/](https://andluis35.gi
 
   Login: '123.456.789-01' ou '91011-1'
 
-  Senha: Senha@123
+  Senha: 'Senha@123'
   
 ---
 
